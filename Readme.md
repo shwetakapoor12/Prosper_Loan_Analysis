@@ -24,6 +24,7 @@ LoanOriginationQuarter : Quarter of the month when loan was originated
 
 
 
+
 Summary Findings:
 After analyzing the variables across dataset, Borrower APR and Lender yield are directly positively correlated which is obvious as more the APR, more will be the interest and more will be lender's yield. However, CreditScoreRangeUpper and ProsperScore negatively correlated to BorrowerAPR. 
 Scatter plot and Heatmap were also created to find out that ProsperScore and BorrowerAPR were negatively correlated as higher the prosper score lower will be the risk attached hence lower will be the APR and that further lowers down the yield.
