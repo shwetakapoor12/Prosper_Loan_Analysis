@@ -2,23 +2,41 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 
 Variables Explored:
+
 Term : Amount of month customers opted for loan
+
 LoanStatus : Current status of the loan like chargedoff, completed, defauted etc...
+
 LenderYield : The Lender yield on the loan. Lender yield is equal to the interest rate on the loan less the servicing fee.
+
 ProsperScore : Risk Factor score from 1 to 10. 10 being least risky
+
 BorrowerAPR : The Borrower's Annual Percentage Rate (APR) for the loan.
+
 BorrowerRate : The Borrower's interest rate for this loan.
+
 ListingCategory..numeric. : Prosper rating for borrowers in numbers
+
 EmploymentStatus : Current type of employment
+
 Occupation : Occupation of borrower at the time of listing
+
 EmploymentStatusDuration : How long the employee has been employed
+
 IsBorrowerHomeowner : Does the borrower owns house at the time of listing (True & False)
+
 ProsperRating..Alpha. : Prosper rating for borrowers in alphabets
+
 StatedMonthlyIncome : Monthly income of the borrower
+
 MonthlyLoanPayment : Monthly loan payment amount
+
 DebtToIncomeRatio : The debt to income ratio of the borrower at the time the credit profile was pulled.
+
 LoanOriginalAmount : Original amount of the loan
+
 LoanOriginationQuarter : Quarter of the month when loan was originated
+
 
 
 
